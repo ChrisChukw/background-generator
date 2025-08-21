@@ -1,1 +1,1 @@
-# baxkground-generator
+# background-generator
